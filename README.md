@@ -148,7 +148,7 @@ app/
 ## Screenshots
 
 ### Splash Screen
-![Splash Screen](splash.png)
+![Splash Screen](splash.png.png)
 
 ### Home Screen
 ![Home Screen](home.png.png)
