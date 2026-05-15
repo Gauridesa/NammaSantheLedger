@@ -147,6 +147,9 @@ app/
 
 ## Screenshots
 
+### Splash Screen
+![Splash Screen](splash.png)
+
 ### Home Screen
 ![Home Screen](home.png.png)
 
@@ -157,8 +160,7 @@ app/
 ![Transaction Screen](transaction.png.png)
 
 ### Daily Summary Screen
-![Daily Summary](summary.png.png) 
----
+![Daily Summary](summary.png.png)
 
 ## Demo Links
 
