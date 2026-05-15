@@ -148,17 +148,16 @@ app/
 ## Screenshots
 
 ### Home Screen
-![Home Screen](home.png)
+![Home Screen](home.png.png)
 
 ### Customer Details Screen
-![Customer Details](customer.png)
+![Customer Details](customer.png.png)
 
 ### Add Transaction Screen
-![Transaction Screen](transaction.png)
+![Transaction Screen](transaction.png.png)
 
 ### Daily Summary Screen
-![Daily Summary](summary.png)
-
+![Daily Summary](summary.png.png) 
 ---
 
 ## Demo Links
